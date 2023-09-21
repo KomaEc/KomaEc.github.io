@@ -12,7 +12,7 @@ redirect_from:
 <!-- Please find my latest CV [here](http://KomaEc.github.io/files/Hanliang__Zhang_s_CV.pdf). -->
 
 <iframe src=
-  "http://KomaEc.github.io/files/Hanliang__Zhang_s_CV.pdf" 
+  "https://KomaEc.github.io/files/Hanliang__Zhang_s_CV.pdf" 
   width="800"
   height="600">
 </iframe>
