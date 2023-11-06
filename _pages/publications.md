@@ -16,7 +16,7 @@ author_profile: true
 
 * __Contract Lenses: Reasoning about Bidirectional Programs via Calculation__\
   <span style="color:red">_Hanliang Zhang_</span>, Wenhao Tang, Ruifeng Xie, Meng Wang, Zhenjiang Hu\
-  To appear in [JFP](https://www.cambridge.org/core/journals/journal-of-functional-programming) [[Preprint](http://KomaEc.github.io/files/contractlens.pdf)]
+  Published in [JFP](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/contract-lenses-reasoning-about-bidirectional-programs-via-calculation/43F612938DAA399A9D35193FB6278F56) [[Paper](http://KomaEc.github.io/files/contractlens.pdf)]
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
