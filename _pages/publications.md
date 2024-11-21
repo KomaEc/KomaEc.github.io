@@ -10,7 +10,7 @@ author_profile: true
   Submitted
 
 * __Towards Translating Real-World Code with LLMs: A Study of Translating to Rust__\
-  Hasan Ferit Eniser*, _Hanliang Zhang_*, Cristina David, Meng Wang, Maria Christakis, Brandon Paulsen, Joey Dodds, Daniel Kroening (* indicates equal contribution)\
+  Hasan Ferit Eniser\*, _Hanliang Zhang_\*, Cristina David, Meng Wang, Maria Christakis, Brandon Paulsen, Joey Dodds, Daniel Kroening (* indicates equal contribution)\
   Submitted [Arxiv](https://arxiv.org/abs/2405.11514)
 
 * __Automatic refactoring of deprecated APIs__\
