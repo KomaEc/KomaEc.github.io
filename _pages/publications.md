@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+* __Scalable, Validated Code Translation of Entire Projects using Large Language Models__\
+  _Hanliang Zhang_, Cristina David, Meng Wang, Brandon Paulsen, Daniel Kroening\
+  Submitted
+
+* __Towards Translating Real-World Code with LLMs: A Study of Translating to Rust__\
+  Hasan Ferit Eniser*, _Hanliang Zhang_*, Cristina David, Meng Wang, Maria Christakis, Brandon Paulsen, Joey Dodds, Daniel Kroening (* indicates equal contribution)\
+  Submitted [Arxiv](https://arxiv.org/abs/2405.11514)
 
 * __Automatic refactoring of deprecated APIs__\
   Cristina David, Pascal Kesseli, Daniel Kroening, _Hanliang Zhang_ (names in alphabetic order)\
