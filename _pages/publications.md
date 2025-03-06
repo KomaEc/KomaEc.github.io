@@ -7,7 +7,7 @@ author_profile: true
 
 * __Scalable, Validated Code Translation of Entire Projects using Large Language Models__\
   _Hanliang Zhang_, Cristina David, Meng Wang, Brandon Paulsen, Daniel Kroening\
-  Submitted [Arxiv](https://arxiv.org/abs/2412.08035)
+  Conditionally accepted to [PLDI'25](https://pldi25.sigplan.org/) [Arxiv](https://arxiv.org/abs/2412.08035)
 
 * __Towards Translating Real-World Code with LLMs: A Study of Translating to Rust__\
   Hasan Ferit Eniser\*, _Hanliang Zhang_\*, Cristina David, Meng Wang, Maria Christakis, Brandon Paulsen, Joey Dodds, Daniel Kroening (* indicates equal contribution)\
