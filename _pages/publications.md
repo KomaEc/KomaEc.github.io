@@ -15,7 +15,7 @@ author_profile: true
 
 * __Quantifying the benefits of code hints for refactoring deprecated Java APIs__\
   Cristina David, Pascal Kesseli, Daniel Kroening, _Hanliang Zhang_ (names in alphabetic order)\
-  Accepted at [FSE'25 Industrial track](https://conf.researchr.org/track/fse-2025/fse-2025-industry-papers) Preprint [Arxiv](https://arxiv.org/abs/2412.08041)
+  Accepted at [FSE'25 Industrial track](https://conf.researchr.org/track/fse-2025/fse-2025-industry-papers) [[Arxiv](https://arxiv.org/abs/2412.08041)]
 
 * __Ownership Guided C to Rust Translation__\
   _Hanliang Zhang_, Cristina David, Yijun Yu, Meng Wang\
