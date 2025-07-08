@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hanliang Zhang (张汉樑)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year Ph.D. student in [Bristol PL Research Group](https://plrg-bristol.github.io/) at the University of Bristol. My research focuses on automatic program translation targeting Rust, leveraging static analysis, formal methods, and large language models (LLMs). I'm fortunate to be supervised by [Meng Wang](https://mengwangoxf.github.io/) and [Cristina David](https://cristina-david.github.io/).
+I'm a fourth-year Ph.D. student in the [Bristol PL Research Group](https://plrg-bristol.github.io/) at the University of Bristol, working under the supervision of [Meng Wang](https://mengwangoxf.github.io/) and [Cristina David](https://cristina-david.github.io/). My research explores automatic program translation to Rust, leveraing techniques from static analysis, formal methods, and large language models (LLMs).
 
-Before joining Bristol, I was an undergrad at Peking University supervised by [Zhenjiang Hu](https://zhenjiang888.github.io/) and [Yingfei Xiong](https://xiongyingfei.github.io/). I had a wonderful time conducting research on reasoning and optimising bidirectional programs by using program calculation techniques.
+Before joining Bristol, I earned my Bachelor's degree from Peking University, where I worked with [Zhenjiang Hu](https://zhenjiang888.github.io/) on reasoning about and optimizing bidirectional programs through program calculation techniques.
+
+
+## Software
+1. [Crown](https://github.com/KomaEc/crown) An ownership analysis guided C to Rust transpiler
+2. [Oxidizer](https://zenodo.org/records/15242640) A scalable LLMs-based Go to Rust transpiler
+3. [ContractLens-Agda](https://github.com/KomaEc/ContractLens-artifact) An Agda verification of the contract lens framework
+
+
+## Professional Service
+* [PLDI'24](https://pldi24.sigplan.org/) Artifact Evaluation Committee
