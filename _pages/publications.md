@@ -13,7 +13,7 @@ author_profile: true
   Hasan Ferit Eniser\*, **Hanliang Zhang**\*, Cristina David, Meng Wang, Maria Christakis, Brandon Paulsen, Joey Dodds, Daniel Kroening (* indicates equal contribution)\
   Submitted [Arxiv](https://arxiv.org/abs/2405.11514)
 
-* [Quantifying the benefits of code hints for refactoring deprecated Java APIs](https://conf.researchr.org/details/fse-2025/fse-2025-industry-papers/39/Quantifying-the-benefits-of-code-hints-for-refactoring-deprecated-Java-APIs)\
+* [Quantifying the benefits of code hints for refactoring deprecated Java APIs](https://dl.acm.org/doi/10.1145/3696630.3728567)\
   Cristina David, Pascal Kesseli, Daniel Kroening, **Hanliang Zhang** (names in alphabetic order)\
   Published in [FSE'25 Industrial track](https://conf.researchr.org/track/fse-2025/fse-2025-industry-papers) [[Arxiv](https://arxiv.org/abs/2412.08041)]
 
