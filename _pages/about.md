@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year Ph.D. student in the [Bristol PL Research Group](https://plrg-bristol.github.io/) at the University of Bristol, working under the supervision of [Meng Wang](https://mengwangoxf.github.io/) and [Cristina David](https://cristina-david.github.io/). My research explores automatic program translation to Rust, leveraing techniques from static analysis, formal methods, and large language models (LLMs).
+<span style="color:blue">I’ll be joining AWS as an Applied Scientist, working on the Neuron Compiler, starting October 2025!</span>
+
+I'm a final Ph.D. student in the [Bristol PL Research Group](https://plrg-bristol.github.io/) at the University of Bristol, working under the supervision of [Meng Wang](https://mengwangoxf.github.io/) and [Cristina David](https://cristina-david.github.io/). My research explores automatic program translation to Rust, leveraing techniques from static analysis, formal methods, and large language models (LLMs).
 
 Before joining Bristol, I earned my Bachelor's degree from Peking University, where I worked with [Zhenjiang Hu](https://zhenjiang888.github.io/) on reasoning about and optimizing bidirectional programs through program calculation techniques.
 
