@@ -1,0 +1,161 @@
+:root {
+  --bg: #ffffff;
+  --fg: #1f2328;
+  --muted: #5b636e;
+  --line: #e6e8eb;
+  --accent: #2563eb;
+  --accent-soft: #eef3fe;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115;
+    --fg: #e6e8eb;
+    --muted: #9aa3ad;
+    --line: #262a31;
+    --accent: #7aa7ff;
+    --accent-soft: #18202e;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 17px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 72px 24px 48px;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+/* Header */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+
+.avatar {
+  width: 140px;
+  height: 140px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid var(--line);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.cjk {
+  margin-left: 6px;
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--muted);
+}
+
+.role {
+  margin: 6px 0 14px;
+  color: var(--muted);
+}
+
+.links { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.links a {
+  padding: 3px 12px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+.links a:hover { text-decoration: none; filter: brightness(0.96); }
+
+/* Sections */
+section p { margin: 0 0 16px; }
+
+h2 {
+  margin: 48px 0 20px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+}
+
+/* Publications */
+.pubs { list-style: none; margin: 0; padding: 0; }
+
+.pubs li {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 26px;
+}
+
+.venue {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.pubs .title {
+  color: var(--fg);
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.authors { color: var(--muted); font-size: 0.925rem; }
+.authors b { color: var(--fg); font-weight: 600; }
+
+.extra { display: flex; flex-wrap: wrap; gap: 14px; font-size: 0.875rem; }
+
+/* Service */
+.service { list-style: none; margin: 0; padding: 0; }
+
+.service li {
+  display: grid;
+  grid-template-columns: 3.25rem 1fr;
+  align-items: baseline;
+  margin-bottom: 14px;
+}
+
+.service a { font-weight: 600; }
+
+.year {
+  color: var(--muted);
+  font-size: 0.925rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.desc { display: block; color: var(--muted); font-size: 0.875rem; }
+
+footer {
+  margin-top: 56px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+@media (max-width: 560px) {
+  main { padding-top: 40px; }
+  .hero { flex-direction: column; align-items: flex-start; gap: 20px; }
+  .avatar { width: 112px; height: 112px; }
+  .cjk { display: block; margin: 4px 0 0; }
+}
